@@ -5,7 +5,10 @@ Installation
 ------------
 
 1. Copy the file `filetypes.Nim.conf` to your `~/.config/geany/filedefs/` directory.
-2. In the file `~/.config/geany/filetype_extensions.conf`: Add `Nim=*.nim;` as new line under the section `[Extensions]`.
+2. In the file `~/.config/geany/filetype_extensions.conf`: Insert the following line under the section `[Extensions]`:
+```txt
+Nim=*.nim;
+```
 3. Open a `.nim` file in Geany :)
 
 Screenshot
@@ -18,5 +21,5 @@ Theme: [Simple Dark](https://github.com/trustable-code/Xfce-Simple-Dark)
 License
 -------
 
-All files in this repository are licensed under the [MIT License](https://opensource.org/licenses/MIT).
+All files in this repository are licensed under the [MIT License](https://opensource.org/licenses/MIT).<br>
 Copyright 2019 Simon Krauter
