@@ -1,3 +1,5 @@
+**Notice: Geany has got [integrated Nim support](https://github.com/geany/geany/blob/master/data/filedefs/filetypes.Nim.conf), so this repo is now obsolete.**
+
 This configuration file adds syntax highlighting support for the [Nim](https://nim-lang.org/) programming language in the [Geany](https://www.geany.org/) text editor.
 
 
